@@ -28,3 +28,7 @@ This has the advantage of letting you to specify the page range that will be exp
 
 <img width="217" alt="Screenshot 2025-05-11 at 14 08 23" src="https://github.com/user-attachments/assets/cc682c9e-8ead-4ee9-9f02-f36706c9353f" />
 
+So, for example, in Apple’s `Preview` app:
+
+Open the PDF, show the Thumbails sidebar, select the thumbnails of the pages you want exported, go to `Print`, choose `Selected Pages in Sidebar`, then go to the `PDF` popup menu down at the bottom left, and select `PDF Pages To JPEGs`.
+
