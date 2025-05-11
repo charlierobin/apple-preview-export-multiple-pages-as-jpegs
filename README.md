@@ -26,7 +26,9 @@ This has the advantage of letting you to specify the page range that will be exp
 
 <img width="743" alt="Screenshot 2025-05-11 at 14 08 09" src="https://github.com/user-attachments/assets/0d23028e-747a-4385-b7b4-9f0b140094a9" />
 
+
 <img width="217" alt="Screenshot 2025-05-11 at 14 08 23" src="https://github.com/user-attachments/assets/cc682c9e-8ead-4ee9-9f02-f36706c9353f" />
+
 
 So, for example, in Apple’s `Preview` app:
 
